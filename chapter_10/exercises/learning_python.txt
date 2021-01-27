@@ -1,0 +1,5 @@
+In Python you can create functions.
+In Python you can model real life objects as classes.
+In Python you can generate pseudo-random numbers.
+In Python you can read files.
+In Python you can capture user input.
